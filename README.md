@@ -8,4 +8,7 @@ ftdeck -i image_dir -f deck_filename -s system_filename
 -f filename for the deck images
 
 -s system definition filename
+
+-v verbose shows processing parameters
+
 ```
