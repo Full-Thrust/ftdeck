@@ -5,9 +5,9 @@ ftdeck -i image_dir -f deck_filename -s system_filename -v
 
 -i image source directory for icons
 
--f filename for the deck images
+-f filename for the resulting card deck images
 
--s system definition filename
+-s system definition filename (29 entries)
 
 -v verbose shows processing parameters
 
